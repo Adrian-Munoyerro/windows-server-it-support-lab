@@ -1,6 +1,6 @@
-# Enterprise IT Infrastructure Lab
+# Windows Server IT Support Lab
 
-**Laboratorio práctico de administración de sistemas Windows**
+**Laboratorio práctico de administración de sistemas Windows, infraestructura de red y soporte IT**
 
 ## 1. Objetivo
 
