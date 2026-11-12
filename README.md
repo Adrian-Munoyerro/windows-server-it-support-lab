@@ -12,6 +12,9 @@ El objetivo es comprender cómo se relacionan estos componentes y cómo verifica
 
 ## 2. Arquitectura y entorno
 
+### Diagrama de arquitectura
+
+![Arquitectura del laboratorio Windows Server IT Support Lab](docs/diagrama-arquitectura.png)
 | Componente | Configuración |
 |---|---|
 | Hipervisor | Oracle VirtualBox |
